@@ -7,3 +7,4 @@ Ce projet analyse les données agricoles de plusieurs villages pour calculer des
 - `TP1.py` : Script Python pour l'analyse.
 - `household_data.csv` : Données agricoles.
 - `resultats_analyse.xlsx` : Résultats exportés.
+- `pauvres_villages.csv` : Résultats exportés.
