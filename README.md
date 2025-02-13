@@ -8,4 +8,4 @@ Ce projet analyse les données agricoles de plusieurs villages pour calculer des
 - `household_data.csv` : Données agricoles.
 - `resultats_analyse.xlsx` : Résultats exportés.
 - `pauvres_villages.csv` : Résultats exportés.
-- `TP1_stat_agricoles.ppt` : résultats.
+- `TP1_stat_agricoles.ppt` : résultats de l'analyse.
